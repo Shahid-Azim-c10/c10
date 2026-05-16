@@ -67,10 +67,16 @@ come in at market terms.**
 | Holder | Stake | Rationale |
 |---|---|---|
 | Mitsubishi Electric US | 40% | Contributes core IP, brand, first-customer access, sponsor capital |
+| Founding team option pool (ESOP) | 40% | CEO, CTO, and first ~10 hires; deliberately oversized so the team carries seed dilution and still reads as venture-grade |
 | C10 Labs (build partner) | 15% | Commercial scale-up, team formation, GTM, capital formation |
-| Founding team option pool (ESOP) | 20% | CEO + first ~10 hires; sized to be competitive with venture-backed peers |
-| Reserved for seed investors | 20% | Sized to a $4–6M seed at a target post of $20–30M |
 | Advisor / strategic partner pool | 5% | DoT advisors, airframe OEM partners, FAA SMEs |
+
+The seed round is intentionally **not** pre-reserved on the founding cap table —
+new investors price the round and dilute all existing holders pro rata. ME and C10
+Labs participate pro rata to defend ownership.
+
+*Illustrative post-seed (5M at 25M post → 20% dilution): ME ~32%, Team ~32%,
+C10 Labs ~12%, Advisors ~4%, Seed investors 20%.*
 
 All ME and C10 Labs shares vest over 36 months from spin-out close, with a 12-month
 cliff, to align both sponsors with execution rather than transaction.
@@ -230,8 +236,9 @@ gives the company a defensible market valuation for downstream rounds.
 
 ## 10. The ask for the June 4 review
 
-1. **Approve the spin-out in principle** on the structure above (40 / 15 / 20 / 20
-   / 5 founding cap table, ME sponsor capital, C10 Labs as build partner).
+1. **Approve the spin-out in principle** on the structure above (ME 40 / Team 40 /
+   C10 Labs 15 / Advisors 5 founding cap table, ME sponsor capital, C10 Labs as
+   build partner).
 2. **Authorize term sheet negotiation** between ME and C10 Labs, with a target
    signed term sheet by end of July.
 3. **Confirm Satoshi Takeda** as the ME-side board sponsor and executive air-cover
